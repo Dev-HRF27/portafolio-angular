@@ -1,5 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
 
+/* SBG Animtion */
+/*
+  Color del Loading
+*/
+svg path,
+svg rect{
+  fill: black;
+}
+
+
+/* animaciones*/
+
 .animated {
   -webkit-animation-duration: 5s;
   animation-duration: 5s;
